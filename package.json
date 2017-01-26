@@ -1,0 +1,32 @@
+{
+  "name": "sarathi-discovery-strategy",
+  "version": "0.0.1-alpha.1",
+  "description": "An abstract class implementing Sarathi's discovery API.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilw/sarathi-discovery-strategy.git"
+  },
+  "keywords": [
+    "service discovery",
+    "sarathi",
+    "microservice",
+    "feign"
+  ],
+  "author": "nikhilw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhilw/sarathi-discovery-strategy/issues"
+  },
+  "homepage": "https://github.com/nikhilw/sarathi-discovery-strategy#readme",
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "gulp": "~3.9.1",
+    "gulp-mocha": "~3.0.1",
+    "mocha": "~3.2.0"
+  }
+}
+
